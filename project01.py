@@ -56,3 +56,5 @@ elif(servico=='academia')and(regiao=='zona leste', 'zl'):
          print('supermercados disponiveis: extra, carrefour')
     if(servico=='shoppings center')and(regiao=='zona leste', 'zl'):
          print(' shoppings centers disponiveis: shopping analia franco, shopping fashion brás, shopping metrô itaquera ' )
+#adicionar as outras regioes
+#resolver o choque dos ifs
